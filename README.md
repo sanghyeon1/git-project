@@ -1,5 +1,7 @@
 # Git 자주 사용하는 명령어 정리
-
+```python
+import this
+```
 ## 저장소 생성(초기화) 하기
 ```bash
 git init # 저장소 생성
